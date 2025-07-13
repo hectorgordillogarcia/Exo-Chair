@@ -69,9 +69,9 @@ This project simulates the kinematics and dynamics of the ExoChair using physica
 ## 👨‍🔬 Authors
 
 **Héctor Gordillo**  
-**David Laborda** 
-**Javier Fernández** 
-**Diego Ramírez** 
+**David Laborda**  
+**Javier Fernández**  
+**Diego Ramírez**
 
 ---
 
