@@ -27,8 +27,8 @@ This project simulates the kinematics and dynamics of the ExoChair using physica
 
 ```
 📁 ExoChair_Project/
-├── model.slx           # Simulink main model
-├── exochair_lib.slx    # Custom library with blocks
+├── PID_CONTROL_GRAVEDAD.slx           # Simulink main model
+├── CAD MODEL           # Folder with all the parts
 ├── model.png           # 3D view of the model
 ├── demo.mp4            # Beta simulation video
 └── README.md           # This file
@@ -55,7 +55,7 @@ This project simulates the kinematics and dynamics of the ExoChair using physica
    git clone https://github.com/yourusername/ExoChair.git
    cd ExoChair
    ```
-2. Open `model.slx` in Simulink.
+2. Open `PID_CONTROL_GRAVEDAD.slx` in Simulink.
 3. Press **Run** to simulate a full sit-stand cycle.
 4. Use the simulation data inspector to analyze torque, angles, and energy.
 
@@ -72,4 +72,8 @@ This project simulates the kinematics and dynamics of the ExoChair using physica
 
 ---
 
-Feel free to contribute or fork the project!
+## 📚 References
+
+This project is inspired by the concept of the **Chairless Chair**, and the 3D mechanical structure was partially based on a model available at:
+
+- [Chairless Chair – GrabCAD](https://grabcad.com/library/chairless-chair-1)
