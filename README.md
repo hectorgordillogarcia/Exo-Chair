@@ -66,9 +66,12 @@ This project simulates the kinematics and dynamics of the ExoChair using physica
 - Battery/power consumption analysis
 - Real-time deployment on embedded hardware (e.g., Raspberry Pi, Arduino)
 
-## 👨‍🔬 Author
+## 👨‍🔬 Authors
 
 **Héctor Gordillo**  
+**David Laborda** 
+**Javier Fernández** 
+**Diego Ramírez** 
 
 ---
 
